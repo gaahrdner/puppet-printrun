@@ -1,6 +1,6 @@
 # Printrun Puppet Module for Boxen
 
-This module will install[Printrun](http://reprap.org/wiki/Printrun) (formally
+This module will install [Printrun](http://reprap.org/wiki/Printrun) (formally
 known as Pronterface), for all your 3D printing G-Code needs.
 
 [![Build Status](https://travis-ci.org/gaahrdner/puppet-printrun.png?branch=master)](https://travis-ci.org/printrun/puppet-printrun)
